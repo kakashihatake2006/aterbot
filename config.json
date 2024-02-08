@@ -2,7 +2,7 @@
 	"client": {
 		"host": "comeonbro.aternos.me",
 		"port": "16164",
-		"username": "Bot"
+		"username": "Dope"
 	},
 	
 	"! DO NOT EDIT BELOW !": "ONLY IF YOU KNOW WHAT YOU ARE DOING",
@@ -10,6 +10,6 @@
 	"action": {
 		"commands": ["forward", "back", "left", "right", "jump"],
 		"holdDuration": 5000,
-		"retryDelay": 15000
+		"retryDelay": 12000
 	}
 }
